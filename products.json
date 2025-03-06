@@ -1,0 +1,16 @@
+{
+	"0e5fb562-65e2-41e9-8d90-0f9aa6d14c1f": {
+		"name": "Monobloc-chair",
+		"price": 300,
+		"quantity": 3,
+		"image": "image-url.png",
+		"id": "0e5fb562-65e2-41e9-8d90-0f9aa6d14c1f"
+	},
+	"ba721a88-a283-4d06-950e-5a80ef7290aa": {
+		"name": "Clarence",
+		"price": 2500,
+		"quantity": 1,
+		"image": "image_url.png",
+		"id": "ba721a88-a283-4d06-950e-5a80ef7290aa"
+	}
+}
